@@ -1,0 +1,14 @@
+{
+    "overviewHeader":"An overview of your answers",
+    "overviewList":[
+       {
+          "title":"How was your week overall",
+          "isLike":false,
+          "subTitle":"How was your week overall"
+       }
+    ],
+    "overviewComment":{
+       "title":"How was your week overall",
+       "icon":"👍"
+    }
+ }

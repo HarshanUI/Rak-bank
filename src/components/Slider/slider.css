@@ -1,0 +1,127 @@
+.hover-emoji {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fefcff;
+    gap: 10%;
+    font-size: 70px;
+    padding: 0px;
+    transition: transform ease 300ms;
+    padding: 10px;
+    width: 200px;
+  
+  }
+  
+  .hover-emoji:hover {
+    color: black;
+    font-size: 70px;
+    padding: 10px;
+    transform: translate(0, -20px);
+  }
+  
+  .hover-emoji-other {
+    opacity: 0.4;
+  }
+  
+  .emoji-label {
+    font-size: 15px;
+  }
+  
+  .overview-container {
+    color: black;
+    padding-left: 50px;
+    width: 100%;
+  }
+  
+  .overview-list {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10%;
+    border-bottom: 1px solid #80808082;
+    width: 100%;
+    position: relative;
+    animation: myfirst 1s;
+  }
+  
+  .overview-list-last {
+    display: flex;
+    width: 100%;
+    justify-content: start;
+    align-items: center;
+    gap: 10%;
+    font-size: 23px;
+    position: relative;
+    animation: myfirst 1.4s;
+  }
+  
+  .overview-list-content p {
+    color: #0000006c;
+  }
+  
+  .overview-submit {
+    padding-top: 50px;
+  }
+  
+  @keyframes myfirst {
+    0% {
+      left: 200px;
+      top: 0px;
+      opacity: 0;
+      z-index: -2;
+    }
+  
+    70% {
+      left: 300px;
+      top: 0px;
+      opacity: 0;
+    }
+  
+    100% {
+      left: 0px;
+      top: 0px;
+      opacity: 1;
+    }
+  }
+  
+  
+  .overview-header {
+    width: 300px;
+    position: relative;
+    animation: myfirst 0.75s;
+  }
+  
+  .overview-submit {
+    width: 100%;
+    position: relative;
+    animation: myfirst 1.7s;
+  }
+  
+  .overview-submit button {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 0%, rgba(107,84,254,1) 0%);
+    border: none;
+    color: white;
+    padding: 11px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  
+  .overview-list-content {
+    width: 32%;
+  }
+  
+  .overview-list-icon {
+    font-size: 41px;
+  }
+  
+  .overview-list-icon:hover {
+    cursor: pointer;
+  }
+  
+  span:hover {
+    cursor: pointer;
+  }
