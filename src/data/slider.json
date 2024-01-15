@@ -20,6 +20,26 @@
        ]
     },
     {
+      "title":"",
+      "options":[
+       {
+          "id":"1",
+          "icon":"👍",
+          "label":"Good"
+       },
+       {
+          "id":"2",
+          "icon":"🤔",
+          "label":"Not Sure"
+       },
+       {
+          "id":"3",
+          "icon":"👎",
+          "label":"Bad"
+       }
+    ]
+   },
+    {
        "title":"How did you like last week's  bowling event?",
        "options":[
         {
