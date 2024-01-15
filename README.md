@@ -1,6 +1,6 @@
 # Getting Started with Rak Bank animation
 
-**Tech Used: CSS,Javascript, React,Data API, Context API, React Testing Library.**
+**Tech Used: HTML,CSS,Javascript, React,Data API, Context API, Testing Library.**
 
 ## Available Scripts
 
@@ -12,7 +12,7 @@ git clone https://github.com/HarshanUI/Rak-bank.git
 
 ### `npm install`
 
-Once all dependencies installed, you can run above script
+you can run above script Once all dependencies installed. 
 
 ### `npm start`
 

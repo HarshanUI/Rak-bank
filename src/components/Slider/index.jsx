@@ -47,7 +47,7 @@ const Slide = ({ slides, overviewList }) => {
   };
 
   if (slides.length === 0) {
-    return <h1>No Slide's Available</h1>;
+    return <h1>Slide's are not Available</h1>;
   }
   return (
     <>
