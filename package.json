@@ -39,9 +39,6 @@
       "last 1 safari version"
     ]
   },
-  "msw": {
-    "workerDirectory": "publicnpx"
-  },
   "devDependencies": {
     "gh-pages": "^6.1.1",
     "resolve-url-loader": "^5.0.0"

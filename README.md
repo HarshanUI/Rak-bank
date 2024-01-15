@@ -6,6 +6,14 @@
 
 In the project directory, you can run:
 
+### `git clone `
+git clone https://github.com/HarshanUI/Rak-bank.git
+
+
+### `npm install`
+
+Once all dependencies installed, you can run above script
+
 ### `npm start`
 
 Runs the app in the development mode.\
